@@ -1,0 +1,21 @@
+.form-sty {
+    border: 2px black;
+    border-radius: 15px;
+    color: rgb(214, 208, 208);
+    background-color: rgb(0, 0, 0);
+  
+    height:390px;
+}
+
+.centre-btn {
+    position: relative;
+    left: 195px;
+    width: 175px;
+    background-color: rgb(5, 112, 89);
+    margin-top: 25px;
+}
+
+.centre-btn:hover {
+
+    background-color: rgb(2, 226, 177);
+}
